@@ -1,0 +1,27 @@
+div {
+  text-align: center;
+}
+
+.p {
+  margin: 0 20% 0 20%;
+  font-size: 20px;
+  border: dotted;
+  background-color: white;
+}
+
+body {
+  background-color: #ddeedd;
+}
+
+img {
+  border: solid;
+  width: 400px;
+  height: 400px;
+}
+
+h1, h2 {
+  background-color: gold;
+  text-align: center;
+  border: solid;
+  font-size: 30px;
+}
